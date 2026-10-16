@@ -1,14 +1,15 @@
 
 # 🚀 REST API Learning Project
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Django-5.2-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge-Django_REST_Framework-API-BA1400?style=for-the-badge" alt="Django REST Framework">
+  <img src="https://img.shields.io/badge/Django_REST_Framework-API-BA1400?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework">
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
+
 
 <p align="center">
   <b>A practical REST API learning project focused on HTTP methods, CRUD operations, validation, filtering, pagination, and API design using Django REST Framework and MySQL.</b>
